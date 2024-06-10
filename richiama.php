@@ -4,6 +4,7 @@
 //esempio: http://localhost/pagina?chiave=valore&nome=luca&cognome=lambiase
 $title = $_GET["title"];
 $testo = $_GET["text"];
+$censura = $get["censura"]
 // $nienteanello = str_replace($testo, "anelli", "***");
 //preparo la stringa in anticipo, così l'html resta più leggibile
 // $nomecognome = $nome . " " . $cognome; 

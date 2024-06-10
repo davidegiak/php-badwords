@@ -12,6 +12,7 @@
     <form action="richiama.php" method="get">
         <input type="text" name="title" placeholder="Scrivi qui il tuo titolo...">
         <input type="text" name="text" placeholder="Scrivi qui il tuo testo...">
+        <input type="text" name="censura" placeholder="Scegli se censurare una parola...">
 
         <button type="submit">Invia</button>
     </form>
